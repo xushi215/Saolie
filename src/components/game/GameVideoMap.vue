@@ -297,7 +297,7 @@ export default defineComponent({
 
 /* 鼠标右键坐标点 */
 .mouse-right {
-  fill: #00ff00;
+  fill: #00ffff;
   stroke: none;
 }
 
