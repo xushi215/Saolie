@@ -52,20 +52,11 @@ to {
 }.mouse-right[data-v-26e60b81] {
 	fill: #0f0;
 	stroke: none;
-	animation-name: scaleout;
+	animation-name: breath;
 	animation-duration: 1s;
 	animation-timing-function: ease-in-out;
 	animation-iteration-count: infinite;
 }
-@keyframes scaleout {
-	0% {
-	transform: scale(0.0);
-}
-100% {
-	transform: scale(1.0);
-	opacity: 0;
-}
-}	
 .mouse-double[data-v-26e60b81] {
 	fill: #f0f;
 	stroke: none
